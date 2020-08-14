@@ -1,0 +1,24 @@
+﻿
+***************************************************************************************************
+***                  FUNCIONALIDADES Y MODIFICACIONES DE LA VERSION v1.0                 ***
+***************************************************************************************************
+- 2019-06-27: KERVIN CORTEZ
+---------------------------------------------------------------------------------------------------
+1. FUNCIONALIDADES INCORPORADAS
+	-- Metodo unificado InsertTrx: recibe datos de los clientes.
+
+2. FUNCIONALIDADES MODIFICADAS
+	--Modificacion descomentada de base de datos de desarrollo a produccion
+	
+3. FUNCIONALIDADES PENDIENTES
+
+4. BUGS AJUSTADOS
+	Errores arreglados: ingreso de log en el servidor glasfishh
+	Eliminacion :  metodos que no funcionan, -- InsertDatos --Hello
+5. BUGS CONOCIDOS PENDIENTES
+
+6. INDICACIONES
+
+
+
+
